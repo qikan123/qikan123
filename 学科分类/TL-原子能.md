@@ -1,0 +1,15 @@
+| ISSN      | CN         | 期刊名称        | 复合影响因子 | 官网                                                                | 在线投稿作者入口                                               | 邮箱                    |
+|:-------- |:--------- |:---------- |:----- |:---------------------------------------------------------------- |:----------------------------------------------------- |:-------------------- |
+| 1000-0658 | 11-1971/TL | 铀矿地质        | 2.193  | [官网1](https://ykdz.cbpt.cnki.net)                                 | [入口1](https://ykdz.cbpt.cnki.net/EditorE3N/index.aspx?t=1) | ykdz1962@126.com      |
+| 1672-0636 | 11-4914/TL | 世界核地质科学     | 1.169  | [官网1](https://gwyd.cbpt.cnki.net)                                 | [入口1](https://gwyd.cbpt.cnki.net/EditorAN/index.aspx?t=1) | sjhdzkx@126.com       |
+| 0253-3219 | 31-1342/TL | 核技术         | 0.99   | [官网1](http://www.hjs.sinap.ac.cn)                                 | [入口1](https://www.scicloudcenter.com/NT/login/index)   | LHB@sinap.ac.cn       |
+| 1000-6931 | 11-2044/TL | 原子能科学技术     | 0.82   | [官网1](https://yznkxjs.xml-journal.net/)                           | [入口1](https://www.manuscripts.com.cn/yznkxjs)          | yznkxjs7285@163.com   |
+| 1000-3436 | 31-1258/TL | 辐射研究与辐射工艺学报 | 0.776  | [官网1](http://www.fs.sinap.ac.cn)                                  | [入口1](https://www.scicloudcenter.com/JRRRP/login/index) | rra@sinap.ac.cn       |
+| 1000-8063 | 11-1969/TL | 铀矿冶         | 0.657  | [官网1](https://ykyi.cbpt.cnki.net)                                 | [入口1](https://ykyi.cbpt.cnki.net/EditorE3N/index.aspx?t=1) | youkuangye@cnmstc.com |
+| 1000-8187 | 14-1143/TL | 辐射防护        | 0.627  | [官网1](http://journal01.magtech.org.cn/Jwk3_fsfh/CN/1000-8187/home.shtml) |                                                        | fushefh@vip.sina.com  |
+| 1000-7512 | 11-2566/TL | 同位素         | 0.607  | [官网1](https://tws.xml-journal.net)                                | [入口1](https://www.manuscripts.com.cn/tws)              | twsbjb@163.com        |
+| 0258-0926 | 51-1158/TL | 核动力工程       | 0.591  | [官网1](http://hdlgc.xml-journal.net/)                              | [入口1](https://www.manuscripts.com.cn/hdlgc)            | hdlgcbjb2@npic.ac.cn  |
+| 0253-9950 | 11-2045/TL | 核化学与放射化学    | 0.489  | [官网1](https://jnrc.xml-journal.net)                               | [入口1](https://www.manuscripts.com.cn/jnrc)             | hehuaxue8025@163.com  |
+| 0258-0918 | 11-1861/TL | 核科学与工程      | 0.433  | [官网1](https://hkxy.cbpt.cnki.net);[官网2](https://nuclse.cbpt.cnki.net/) | [入口1](https://hkxy.cbpt.cnki.net/EditorAN/index.aspx?t=1) | hkxygc_gz@vip.163.com |
+| 0254-6086 | 51-1151/TL | 核聚变与等离子体物理  | 0.256  | [官网1](http://www.hjby.ac.cn)                                      | [入口1](https://www.hjby.ac.cn/journalx_hjb/authorLogOn.action) | bjb@swip.ac.cn        |
+| 0258-0934 | 11-2016/TL | 核电子学与探测技术   | 0.177  | [官网1](https://publish.cnki.net/here)                              | [入口1](https://here.cbpt.cnki.net/EditorCN/index.aspx?t=1) | bianjibu261@126.com   |
